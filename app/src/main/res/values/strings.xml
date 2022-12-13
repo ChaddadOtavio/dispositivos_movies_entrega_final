@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MainScreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="todo">TODO</string>
+    <string name="produto_1">Produto 1</string>
+    <string name="produto_2">Produto 2</string>
+    <string name="produto_3">Produto 3</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nome">Nome</string>
+    <string name="descricao_do_produto">Descrição do produto</string>
+    <string name="usuario">Usuário</string>
+    <string name="carrinho">Carrinho</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="login">Login</string>
+    <string name="Nome">hint</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="complemento">Complemento</string>
+    <string name="confirmar_senha">Confirmar senha</string>
+    <string name="voltar">Voltar</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="localizar">Localizar</string>
+</resources>
